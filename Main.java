@@ -14,3 +14,7 @@ abstract class Orang {
     public abstract void tampilkanPeran();
 }
 
+class MataKuliah {
+
+}
+
