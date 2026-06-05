@@ -60,3 +60,9 @@ class Dosen extends Orang {
     }
 }
 
+class Mahasiswa extends Orang {
+    private String nim;
+    private ArrayList<MataKuliah> mataKuliahDiambil;
+
+}
+
