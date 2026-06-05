@@ -30,3 +30,7 @@ class MataKuliah {
     }
 }
 
+class Dosen extends Orang {
+   
+}
+
